@@ -1,0 +1,5 @@
+mne
+moabb
+scikit-learn
+matplotlib
+numpy
